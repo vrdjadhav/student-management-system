@@ -1,20 +1,4 @@
-# student-management-system
-🎓 A Python + Tkinter Student Management System with SQLite – developed as a Semester 2 Mid‑Semester Project for OOPs practical.
-Here are the updated repository details that clearly state this is a **Semester 2 Mid‑Semester College Project**.
 
----
-
-## Repository Name (unchanged)
-`student-management-system`
-
----
-
-## Description (GitHub short description)
-> 🎓 A Python + Tkinter Student Management System with SQLite – developed as a **Semester 2 Mid‑Semester Project** for OOPs practical.
-
----
-
-## README.md (Updated with college project context)
 
 ```markdown
 # 🎓 Student Management System
